@@ -30,3 +30,9 @@ A simple and elegant **Countdown Timer** web app built using basic **HTML**, **C
 
 ## 📂 File Structure
 
+## 🧑‍💻 Author
+## Kunal Kushwaha
+## Made with ❤️ using pure web technologies.
+
+
+
