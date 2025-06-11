@@ -23,8 +23,8 @@ A simple and elegant **Countdown Timer** web app built using basic **HTML**, **C
 ---
 
 ## 📸 Screenshot
-
-> *Insert a screenshot here of the countdown in action, or use a placeholder image.*
+ 
+ <img src = "SS.png">
 
 ---
 
