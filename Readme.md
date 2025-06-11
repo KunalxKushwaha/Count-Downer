@@ -28,8 +28,6 @@ A simple and elegant **Countdown Timer** web app built using basic **HTML**, **C
 
 ---
 
-## 📂 File Structure
-
 ## 🧑‍💻 Author - Kunal Kushwaha
 <h3>Made with ❤️ using pure web technologies.</h3>
 
